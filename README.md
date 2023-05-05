@@ -1,6 +1,11 @@
 
-Crea una aplicación para buscar películas
+## React - Aplicación para buscar películas
 
+### Creado con Vite - Desplegado en Netlify
+
+https://movie-search-app-szrdev.netlify.app/
+
+-----------------------------
 Key: de8f1db
 
 API a usar: - https://www.omdbapi.com/ Consigue la API Key en la propia página web registrando tu email.
